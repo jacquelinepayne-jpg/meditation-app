@@ -1,0 +1,11 @@
+Model Information:
+* title:	Birch trees
+* source:	https://sketchfab.com/3d-models/birch-trees-de6263e5400b4a52a795decf84f06575
+* author:	Igor_K. (https://sketchfab.com/Igor_K.)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Birch trees" (https://sketchfab.com/3d-models/birch-trees-de6263e5400b4a52a795decf84f06575) by Igor_K. (https://sketchfab.com/Igor_K.) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
